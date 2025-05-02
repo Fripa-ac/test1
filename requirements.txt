@@ -1,0 +1,4 @@
+requests
+ttkbootstrap
+python-dotenv
+Panda
